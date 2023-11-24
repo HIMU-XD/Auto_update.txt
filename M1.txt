@@ -1,0 +1,2 @@
+[FBAN/FB4A;FBAV/196.0.0.75;FBBV/5225824;FBDM/{density=1.94,width=797,height=1608};FBLC/es_ES;FBRV/0;FBCR/Optus;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/Galaxy Xcover Pro;FBSV/14;FBOP/15;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/196.0.0.75;FBBV/5225824;FBDM/{density=1.94,width=797,height=1608};FBLC/es_ES;FBRV/0;FBCR/Optus;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/Galaxy Xcover Pro;FBSV/14;FBOP/15;FBCA/arm64-v8a:;]
